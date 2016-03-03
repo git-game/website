@@ -1,0 +1,24 @@
+{
+  "name": "git-game-website",
+  "version": "0.0.1",
+  "description": "The website for the official git-game and all its versions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-game/website.git"
+  },
+  "keywords": [
+    "git",
+    "game",
+    "website"
+  ],
+  "author": "Juan G Ruelas Jr (https://github.com/ChannelJuanNews)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/git-game/website/issues"
+  },
+  "homepage": "https://github.com/git-game/website#readme"
+}
