@@ -1,0 +1,11 @@
+#pic {
+  max-width: 250px;
+  border: 10px solid #64b5f6;
+  border-radius: 250px;
+}
+#pic:hover{
+  max-width: 240px;
+  border: 15px solid #64b5f6;
+  border-radius: 240px;
+  padding-bottom: 10px;
+}

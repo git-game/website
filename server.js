@@ -13,7 +13,7 @@ var bodyParser = require('body-parser');
 var app = express();
 
 // creating global variables to be used
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 8080;
 
 // configuring our middlware
 app.use(express.static('views'));
