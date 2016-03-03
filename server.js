@@ -16,6 +16,10 @@ app.get('/', function(req, res){
   res.render('index');
 });
 
+app.get('/creators', function(req, res){
+  res.render('creators');
+})
+
 // setting up our 404 error
 app.use(function(err, req, res, next) {
   console.error(err.stack);

@@ -1,0 +1,15 @@
+#logo {
+  max-width: 60px;
+  padding-top: 10px;
+}
+
+#git-color {
+  background-color: #64b5f6;
+}
+
+@media (max-width: 600px) {
+  #logo {
+    max-width: 50px;
+    padding-top: 10px;
+  }
+}
