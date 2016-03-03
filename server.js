@@ -1,13 +1,6 @@
 // Basic app setup
 var express = require('express');
 var favicon = require('serve-favicon');
-//var request = require('ajax-request');
-//var http = require('http');
-//var request = require('request');
-//var http = require("http");
-//var https = require("https");
-var GitHubApi = require('github');
-
 var logger = require('morgan');
 var bodyParser = require('body-parser');
 var app = express();
