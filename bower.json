@@ -1,0 +1,29 @@
+{
+  "name": "git-game-website",
+  "description": "The website for the official git-game and all its versions",
+  "main": "server.js",
+  "authors": [
+    "Juan G Ruelas Jr (https://github.com/ChannelJuanNews)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "git",
+    "game",
+    "website"
+  ],
+  "homepage": "https://github.com/git-game/website",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "wow": "wowjs#^1.1.2"
+  }
+}

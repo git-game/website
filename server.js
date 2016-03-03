@@ -7,7 +7,8 @@ var port = process.env.PORT || 3000;
 
 // configuring our middlware
 app.use(express.static('views'));
-app.use(express.static('bower_components'));
+app.use(express.static('bower_components')); //some libraries can only be reached with bower
+app.use(express.static('node_modules'));
 app.set('view engine', 'ejs');
 
 // defining our routes
