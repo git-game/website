@@ -22,9 +22,12 @@
   },
   "homepage": "https://github.com/git-game/website#readme",
   "dependencies": {
+    "animate.css": "^3.5.1",
     "body-parser": "^1.15.0",
     "ejs": "^2.4.1",
     "express": "^4.13.4",
+    "jquery": "^2.2.1",
+    "materialize-css": "^0.97.5",
     "morgan": "^1.7.0",
     "prismjs": "^1.4.1",
     "serve-favicon": "^2.3.0"
