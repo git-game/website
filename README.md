@@ -1,8 +1,8 @@
-#Git-Game
+# Git-Game
 
 Hello, this is the repo for the git-game website.
 
-##Dependencies
+## Dependencies
 
 * You must have Node.js installed
 
@@ -17,13 +17,13 @@ After installing Node you should have access to the ```node``` and ```npm``` (no
 
 * Install bower ```$ npm install bower -g``` if not already installed
 
-####Now clone this repository and install packages
+#### Now clone this repository and install packages
 
 * ```$ cd /path/to/the/cloned/repo/website```
 * ```$ npm install --save```
-* ```$ bower install``` 
+* ```$ bower install```
 
-##Now you are good to go!
+## Now you are good to go!
 
 Run the final command
 
